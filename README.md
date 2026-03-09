@@ -19,10 +19,9 @@
 const developer = {
   name: "Initcatcher",
   education: ["Computer Engineering (홍익대)", "Integrative Medicine M.S. (차의과학대)"],
-  role: "Software Engineer — Medical AI × Full-Stack",
+  role: "Software Engineer",
   certifications: ["Samsung SW Competency B-Level", "SSAFY 12기 1st Place"],
-  currentFocus: ["Medical AI", "3D Ultrasound", "Open Source"],
-  funFact: "I debug code and diagnose health — sometimes both at once 🩺💻",
+  currentFocus: ["AI Engineering", "Open Source"],
 } as const;
 ```
 
