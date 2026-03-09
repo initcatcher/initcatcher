@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Catch&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Medical%20AI%20%C2%B7%20Full-Stack&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Initcatcher&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Medical%20AI%20%C2%B7%20Full-Stack&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -15,14 +15,15 @@
 
 ## 🧬 About Me
 
-```js
-const catch = {
-    education: ["Computer Engineering (홍익대)", "Integrative Medicine M.S. (차의과학대)"],
-    role: "Software Engineer @ Medical AI × Full-Stack",
-    certifications: ["Samsung SW Competency B-Level", "SSAFY 12기 1st Place"],
-    currentFocus: "Medical AI · 3D Ultrasound · Open Source",
-    funFact: "I debug code and diagnose health — sometimes both at once 🩺💻"
-};
+```typescript
+const developer = {
+  name: "Initcatcher",
+  education: ["Computer Engineering (홍익대)", "Integrative Medicine M.S. (차의과학대)"],
+  role: "Software Engineer — Medical AI × Full-Stack",
+  certifications: ["Samsung SW Competency B-Level", "SSAFY 12기 1st Place"],
+  currentFocus: ["Medical AI", "3D Ultrasound", "Open Source"],
+  funFact: "I debug code and diagnose health — sometimes both at once 🩺💻",
+} as const;
 ```
 
 <br>
