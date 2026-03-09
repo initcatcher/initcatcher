@@ -140,10 +140,6 @@ const catch = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/initcatcher/initcatcher/output/github-snake.svg" width="100%"/>
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=initcatcher&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
-
 <br>
 
 ## 🎯 Currently
